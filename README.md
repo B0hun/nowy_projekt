@@ -1,5 +1,6 @@
-Moj pierwszy projekt Git
-Nauka pracy z Git i GitHub
+Mój pierwszy projekt Git
 
-Zmiana testowa do cwiczenia konfliktow.
+Wersja z gałęzi konfliktowej
+
+Wersja z gałęzi głównej
 
