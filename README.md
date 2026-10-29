@@ -1,2 +1,4 @@
-Moj pierwszy projekt Git
-Nauka pracy z Git i GitHub
+Mój pierwszy projekt Git
+
+Wersja z gałęzi głównej
+
